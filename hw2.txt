@@ -22,4 +22,4 @@ Played bumper cars with real cars
 
 5. What is a python script? (Keep it simple)
 
-A file which is an algorithm which uses python to do simple tasks. Contains instructions.
+A file which is an algorithm which uses python to do simple tasks. Contains instructions
