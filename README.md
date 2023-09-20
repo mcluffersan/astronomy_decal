@@ -1,3 +1,4 @@
 # astronomy_decal
 this is for the astronomy decal
-HW will always (except hw 2) be in pydecal_hw_dis
+HW will always homeworks_pydecal
+HW is ordered left to right
