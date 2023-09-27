@@ -24,16 +24,14 @@ minimum and maximum values in the list as a tuple.
 """
 
 def minandmax(list1):
-   max = (max(list1))
-   min = (min(list1))
+   max1 = (max(list1))
+   min1 = (min(list1))
    test = []
-   test.append(min)
-   test.append(max)
+   test.append(min1)
+   test.append(max1)
    test = tuple(test)
-   print((test))
+   print(test)
    print(type(test))
-
-
 
 """### Problem 3: Check Leap Year
 Write a function that takes a year as input and returns True if it's a 
